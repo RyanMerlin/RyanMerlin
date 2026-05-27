@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://ryanmerlin.com"><img src="https://img.shields.io/badge/Blog-ryanmerlin.com-000?style=for-the-badge" alt="Blog"/></a>
+  <a href="https://edgeplane.ai"><img src="https://img.shields.io/badge/Docs-edgeplane.ai-7c9cf8?style=for-the-badge" alt="EdgePlane Docs"/></a>
   <a href="https://x.com/rmerlin"><img src="https://img.shields.io/badge/Twitter-@rmerlin-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 </p>
 
@@ -21,7 +22,7 @@
 
 ### Currently building
 
-- **[EdgePlane](https://github.com/RyanMerlin/edgeplane)** — Control plane for AI agent fleets. GitOps lifecycle, persistent sessions, inter-agent messaging.
+- **[EdgePlane](https://github.com/RyanMerlin/edgeplane)** — Control plane for AI agent fleets. GitOps lifecycle, persistent sessions, inter-agent messaging. [Docs →](https://edgeplane.ai)
 - **[Curio](https://github.com/RyanMerlin/curio)** — Git-native knowledge curation. Editorial KB harness that makes AI argue before it acts.
 - **[Aria](https://ryanmerlin.com/posts/2026-04-21-the-aria-fleet)** — A fleet of 6 persistent AI agents on one workstation. Research testbed for production agent patterns.
 
